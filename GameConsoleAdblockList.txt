@@ -46,6 +46,13 @@
 !!! 127.0.0.1 receive-lp1.er.srv.nintendo.net
 !!! 127.0.0.1 aauth-lp1.ndas.srv.nintendo.net
 
+
+! ——— Nintendo Switch 2 ———
+! not confirmed yet this may be fake
+||receive.p01.lp1.dg.srv.nintendo.net
+||receive.p01.lp1.er.srv.nintendo.net
+||p01.lp1.sprofile.srv.nintendo.net
+
 ! ——— Nintendo DS / Wii ———
 ! For a largely official list to connect to Wiimmfi (for DS games only) and RiiConnect24, check out https://raw.githubusercontent.com/RiiConnect24/DNS-Server/master/dns_zones-hosts.txt
 
